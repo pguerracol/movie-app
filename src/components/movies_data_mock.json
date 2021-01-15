@@ -1,0 +1,50 @@
+{
+  "data": {
+    "movies": [
+      {
+        "id": "1",
+        "medium_cover_image": "https://stz1.imgix.net/Web/contentId/50297/type/KEY/dimension/1920x1080/lang/en-US?auto=compress,format&w=360&fit=max",
+        "title_long": "Bad boys For life",
+        "title": "Bad boys",
+        "year": "2008",
+        
+        "large_cover_image": "https://stz1.imgix.net/Web/contentId/50297/type/KEY/dimension/1920x1080/lang/en-US?auto=compress,format&w=360&fit=max",
+        "description_full": "bla lasdiuyasd faoiydfuai asiduya sdfiyuiyiasd ifuyasdfiuyasdfiy asiduy asdfyiasuy ",
+        "genres" : ["suspense", "action", "drama"]
+      },
+      {
+        "id": "2",
+        "medium_cover_image": "https://images-na.ssl-images-amazon.com/images/I/91hfBv0BbqL.jpg",
+        "title_long": "No time to die",
+        "title": "No Time to die - 2021",
+        "year": "2021",
+
+        "large_cover_image": "https://images-na.ssl-images-amazon.com/images/I/91hfBv0BbqL.jpg",
+        "description_full": "Look the skyfall... bla lasdiuyasd faoiydfuai asiduya sdfiyuiyiasd ifuyasdfiuyasdfiy asiduy asdfyiasuy ",
+        "genres" : ["suspense", "action", "drama"]
+      },
+      {
+        "id": "3",
+        "medium_cover_image": "https://stz1.imgix.net/Web/contentId/50297/type/KEY/dimension/1920x1080/lang/en-US?auto=compress,format&w=360&fit=max",
+        "title_long": "Star wars - The Mandalorian",
+        "title": "The Mandalorian",
+        "year": "2020",
+
+        "large_cover_image": "https://stz1.imgix.net/Web/contentId/50297/type/KEY/dimension/1920x1080/lang/en-US?auto=compress,format&w=360&fit=max",
+        "description_full": "bla lasdiuyasd faoiydfuai asiduya sdfiyuiyiasd ifuyasdfiuyasdfiy asiduy asdfyiasuy ",
+        "genres" : ["suspense", "action", "drama"]
+      },
+      {
+        "id": "4",
+        "medium_cover_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNkVGT8AHhFkNQjAdZ0sUpRiDoeRHpSDTy_w&usqp=CAU",
+        "title_long": "Sky fall - 007",
+        "title": "Sky fall - 007",
+        "year": "2012",
+
+        "large_cover_image": "https://stz1.imgix.net/Web/contentId/50297/type/KEY/dimension/1920x1080/lang/en-US?auto=compress,format&w=360&fit=max",
+        "description_full": "Look the skyfall... bla lasdiuyasd faoiydfuai asiduya sdfiyuiyiasd ifuyasdfiuyasdfiy asiduy asdfyiasuy ",
+        "genres" : ["suspense", "action", "drama"]
+      }
+    ]
+  }
+}
